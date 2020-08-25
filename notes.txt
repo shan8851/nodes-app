@@ -1,0 +1,2 @@
+This text was created from node!'
+This was appended to notes.txt via the node module appendFile
