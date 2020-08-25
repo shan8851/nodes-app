@@ -10,5 +10,8 @@
     "nodejs"
   ],
   "author": "Asam Shan",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^10.8.0"
+  }
 }
