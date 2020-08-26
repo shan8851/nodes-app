@@ -63,7 +63,7 @@ Right now all the arguments and searches are case sensitive, so you need to use 
 
 I'd also like the program to have one command to run, for example `nodes add` and then the user will be prompted for title and body via the command line. Same goes for the other features.
 
-## Screen shots
+## Screenshots
 
 ![ss](./images/list.png)
 ![ss](./images/read.png)
