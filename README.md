@@ -67,4 +67,4 @@ I'd also like the program to have one command to run, for example `nodes add` an
 
 ![ss](./images/list.png)
 ![ss](./images/read.png)
-![ss](./images/error)
+![ss](./images/error.png)
